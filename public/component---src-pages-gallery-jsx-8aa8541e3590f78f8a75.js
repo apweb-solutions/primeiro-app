@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{"I1v/":function(e,a,n){"use strict";n.r(a);var t=n("q1tI"),c=n.n(t),l=n("ntAx");a.default=function(){return c.a.createElement(l.a,null,c.a.createElement("div",{className:"container"},c.a.createElement("div",{className:"row"},c.a.createElement("h1",null,"Galeria de Fotos"),c.a.createElement("div",{className:"col-12"}))))}}}]);
+//# sourceMappingURL=component---src-pages-gallery-jsx-8aa8541e3590f78f8a75.js.map

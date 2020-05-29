@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{bT9l:function(e,a,n){"use strict";n.r(a);var t=n("q1tI"),c=n.n(t),s=n("ntAx");a.default=function(){return c.a.createElement(s.a,null,c.a.createElement("div",{className:"container"},c.a.createElement("div",{className:"row"},c.a.createElement("div",{className:"col-12"},"Nosso restaurante é bão"))))}}}]);
+//# sourceMappingURL=component---src-pages-about-jsx-55977aa16786cbd1f9cd.js.map
